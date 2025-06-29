@@ -2,7 +2,9 @@
 This is the copy of
 https://github.com/damogranlabs/serial-tool
 But I rewrite a little a code. Now you do not need to install anything. Just download the code and run app.py
+
 python3 app.py
+
 or run app.py from IDLE
 
 The code contains error - it can not correctly determine the name of usb adapter.
