@@ -1,7 +1,9 @@
 # Free-RS232-linux-tool
 This is the copy of
 https://github.com/damogranlabs/serial-tool
-But I rewrite a little a code. Now you do not need to install anything (just dependencies, like aioserial, if they are not already in your system). Just download the code and run app.py
+But I rewrite a little a code. Now you do not need to install anything (just dependencies, like aioserial, if they are not already in your system. Python will tell you that he need). This is usefull if you not interested in Python itself and just need a tool. pip and insolated enviroment represents itself as some hedache.
+
+Just download the code and run app.py
 
 python3 app.py
 
